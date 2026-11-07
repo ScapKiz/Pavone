@@ -26,6 +26,8 @@ jobs:
       - run: npm ci
       - run: npm run build
         env:
+          # Imposta nel repository (Settings > Secrets and variables > Actions > Variables)
+          # l'indirizzo pubblico del sito: serve per canonical, hreflang e immagine social.
           VITE_SITE_URL: ${{ vars.SITE_URL }}
       - uses: actions/upload-pages-artifact@v3
         with:

@@ -1,0 +1,249 @@
+{
+  "meta": {
+    "title": "Trattoria Il Pavone | Cuisine et tradition de Bassano depuis 1941",
+    "description": "Trattoria historique à Romano d'Ezzelino, près de Bassano del Grappa. Depuis 1941 : asperges et œufs à la bassanaise, viande à la braise, pâtes fraîches et morue à la vicentine. Réservez en ligne."
+  },
+  "nav": {
+    "kitchen": "Notre Cuisine",
+    "story": "Notre Histoire",
+    "menu": "La Carte",
+    "gallery": "Galerie",
+    "contact": "Contact",
+    "book": "Réserver",
+    "bookNow": "Réserver maintenant",
+    "discoverMenu": "Découvrir la carte",
+    "openMenu": "Ouvrir le menu de navigation",
+    "closeMenu": "Fermer le menu de navigation",
+    "chooseLanguage": "Choisir la langue",
+    "skip": "Aller au contenu",
+    "home": "Trattoria Il Pavone, retour au début",
+    "newWindow": "s'ouvre dans une nouvelle fenêtre"
+  },
+  "hero": {
+    "titleLines": ["Depuis 1941 – Cuisine", "et Tradition de Bassano"],
+    "text": "Nous vous accueillons dans une atmosphère où la cuisine traditionnelle rencontre l'élégance, pour des moments inoubliables en famille.",
+    "photoAlt": "La salle de la Trattoria Il Pavone : poutres en bois, lampes en tissu, murs à fresques et tables dressées avec des nappes à carreaux"
+  },
+  "status": {
+    "openUntil": "Ouvert maintenant, jusqu'à {time}",
+    "opensToday": "Fermé pour le moment. Réouverture aujourd'hui à {time}",
+    "opensOn": "Fermé pour le moment. Réouverture {day} à {time}",
+    "days": ["dimanche", "lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi"]
+  },
+  "kitchen": {
+    "title": "Notre Cuisine",
+    "lead": "Cuisine typique du terroir, viande à la braise et pâtes fraîches. La Trattoria il Pavone est connue comme le sanctuaire des asperges, un nom qui vient de la tradition vénitienne, respectée depuis toujours par ses chefs.",
+    "closing": "Des plats aux ingrédients typiques de saison, comme le radicchio de Trévise, l'asperge DOC de Bassano del Grappa, la morue à la vicentine et notre célèbre viande à la braise.",
+    "items": {
+      "antipasti": {
+        "title": "Entrées et panari",
+        "text": "Des entrées servies sur des « panari », littéralement des planches à polenta, avec des produits de saison et de Vénétie. L'entrée « reine » est sans aucun doute le panaro del Pavone, où se mêlent tradition et fantaisie gastronomique.",
+        "alt": "Entrée d'aubergines et de fromage servie sur une assiette d'ardoise dans la salle"
+      },
+      "pasta": {
+        "title": "Pâtes fraîches",
+        "text": "Des pâtes maison et des sauces préparées avec le soin et la passion de ceux qui aiment ce métier.",
+        "alt": "Bigoli, les longues pâtes typiques de la Vénétie"
+      },
+      "risotti": {
+        "title": "Risottos",
+        "text": "D'excellents risottos, préparés avec des ingrédients de saison comme la trévise et le potiron.",
+        "alt": "Risotto à la trévise servi dans une assiette blanche"
+      },
+      "carne": {
+        "title": "Viande à la braise",
+        "text": "Il Pavone se distingue, non sans une pointe de fierté, par sa viande grillée. Les morceaux, soigneusement sélectionnés, sont maturés juste ce qu'il faut et cuits exclusivement à la braise, qui apporte à chaque plat sa valeur ajoutée.",
+        "alt": "Tagliata de viande à la braise avec romarin et polenta"
+      },
+      "asparagi": {
+        "title": "Asperges et œufs à la bassanaise",
+        "text": "Un chapitre à part. Dès le tout début des années 40, Il Pavone propose ce mets délicat inspiré de la tradition paysanne, devenant la référence des amateurs de l'asperge blanche de Bassano.",
+        "alt": "Deux bottes d'asperges blanches de Bassano liées à l'osier, avec des œufs, devant le feu de la cheminée"
+      },
+      "baccala": {
+        "title": "Morue à la vicentine",
+        "text": "À ne pas oublier, le baccalà : à la vicentine, en crème sur le panaro et dans le trio de dégustation.",
+        "alt": "Morue à la vicentine avec polenta dans l'assiette"
+      },
+      "dolci": {
+        "title": "Desserts",
+        "text": "Les desserts concluent dignement chaque repas : des simples douceurs de grand-mère aux créations qui vous étonneront par la fantaisie de leur présentation.",
+        "alt": "Deux crèmes catalanes flambées servies à table"
+      }
+    }
+  },
+  "story": {
+    "title": "Notre Histoire",
+    "staffAlt": "L'équipe de la Trattoria Il Pavone devant le vieux mur de la villa",
+    "wallAlt": "Mur de la salle avec fresque et lampes en tissu",
+    "chapters": [
+      { "mark": "1939", "text": "L'histoire de la « Trattoria il Pavone » commence lorsque la famille Lunardon vient s'installer, en 1939, dans ce qui fut la villa de campagne historique d'un illustre habitant de Bassano ayant vécu entre le XVIIIe et le XIXe siècle : Jacopo Vittorelli." },
+      { "mark": "", "text": "Écrivain et poète très apprécié, il possédait un vaste terrain sur lequel s'élevait une villa Renaissance, entièrement détruite, dont il conservait quelques dessins. Le maître décida de reconstruire une résidence de campagne d'après ces dessins : d'où le style néoclassique du bâtiment plutôt que le baroque qu'aurait suggéré la mode de l'époque." },
+      { "mark": "", "text": "À sa mort, comme le voulait la coutume, il légua toute la propriété à un prêtre de son temps, Don Pirani, qui accueillait noblement dans son institution les orphelines de la région de Bassano. Avant de mourir, Vittorelli décida que les orphelines de Don Pirani pourraient passer quelques périodes de vacances dans sa villa de campagne, ce qui se fit régulièrement, semble-t-il, jusqu'à la première moitié du XXe siècle." },
+      { "mark": "1941", "text": "Transformé en trattoria en 1941, « il Pavone » offre à sa clientèle les produits du travail paysan, et de là naît le plat le plus traditionnel de la gastronomie de Bassano : les asperges et les œufs." },
+      { "mark": "", "text": "Devenu le « sanctuaire » des asperges par excellence, la direction actuelle a enrichi la carte de variations qui répondent aux goûts et aux attentes d'aujourd'hui." },
+      { "mark": "1860", "text": "Voici en bref l'histoire du « Pavone », témoin de bien d'autres vicissitudes humaines, des brigands réfugiés entre ses murs aux soldats qui, de passage, laissaient des dédicaces à leurs bien-aimées, écrites en 1860 et encore visibles aujourd'hui : en somme, un lieu riche d'histoire, de charme et de saveurs." }
+    ]
+  },
+  "menu": {
+    "title": "La Carte",
+    "tabs": { "carta": "À la carte", "vini": "Carte des vins", "gruppi": "Menus de groupe" },
+    "tabsLabel": "Choisir un menu",
+    "sectionsLabel": "Catégories",
+    "cartaIntro": "Carte de saison",
+    "viniIntro": "Effervescents, blancs et rouges en bouteille, vins au verre et à la pression.",
+    "gruppiIntro": "Cérémonies, fêtes ou anniversaires ? Sur réservation, voici nos menus pour votre événement.",
+    "translationNote": "Les plats sont présentés en italien, comme sur notre carte, avec la description en français en dessous.",
+    "drinksExcluded": "boissons non comprises",
+    "eventsTitle": "Événements spéciaux, fêtes de famille ou dîners d'entreprise ?",
+    "eventsButton": "Voir les menus de groupe"
+  },
+  "menuData": {
+    "sections": {
+      "antipasti": "Entrées",
+      "primi": "Premiers plats",
+      "secondi": "Plats principaux",
+      "contorni": "Accompagnements",
+      "unici": "Plats complets",
+      "dolci": "Desserts",
+      "aperitivi": "Apéritifs",
+      "bibite": "Boissons",
+      "bollicine": "Effervescents",
+      "bianchi": "Vins blancs",
+      "rossi": "Vins rouges",
+      "mescita": "Vins au verre",
+      "spina": "Vins à la pression"
+    },
+    "sectionNotes": { "unici": "Certains de nos plats principaux servis avec pommes de terre et salade dans l'assiette" },
+    "units": { "litre": "1 litre", "half": "1/2 litre", "quarter": "1/4 litre", "glass": "verre", "hg": "hg" },
+    "courses": { "antipasto": "Entrée", "primi": "Premiers plats", "secondo": "Plat principal", "secondi": "Plats principaux", "contorni": "Accompagnements", "dolce": "Dessert", "caffe": "Café" },
+    "items": {
+      "tris-radicchio": "Trio de dégustation de trévise (radicchio)",
+      "crostoni-lardo": "Croûtons au Lardo di Colonnata",
+      "panaro-baccala": "Planche à la morue en crème",
+      "porchetta-radicchio": "Porchetta d'Ariccia et trévise grillée",
+      "carpaccio-radicchio": "Carpaccio de bœuf à la trévise marinée",
+      "polenta-musetto": "Polenta, musetto (saucisse à cuire), choucroute et purée à la truffe",
+      "panaro-pavone": "Planche spéciale de la maison",
+      "tartare-zucca": "Tartare de bœuf au potiron et à la truffe",
+      "tris-baccala": "Trio de dégustation de morue",
+      "misticanza": "Salade d'hiver à la trévise, au potiron, au pecorino et aux noix",
+      "bigoli-anitra": "Pâtes bigoli à la sauce de canard",
+      "tagliatelle-radicchio": "Tagliatelles à la trévise et au fromage Morlacco",
+      "paccheri-cinghiale": "Pâtes paccheri au sanglier et à la truffe",
+      "maccheroncini-baccala": "Macaronis à la morue",
+      "tortelli-zucca": "Tortelli au potiron, truffe et ricotta fumée",
+      "crespelle-radicchio": "Crêpes à la trévise et à l'Asiago",
+      "gnocchetti-radicchio": "Gnocchetti à la trévise et au guanciale",
+      "risotto-zucca": "Risotto au potiron et à la truffe (minimum 2 personnes)",
+      "zuppa-porcini": "Soupe de cèpes",
+      "cotoletta-pollo": "Escalope de poulet",
+      "galletto-brace": "Coquelet à la braise",
+      "arrosto-maialino": "Rôti de cochon de lait à la trévise",
+      "bistecca-manzo": "Steak de bœuf",
+      "costine-maialino": "Travers de cochon de lait à la braise",
+      "seppie-piselli": "Seiche mijotée aux petits pois",
+      "tagliata-rosmarino": "Tagliata de bœuf Sorana au romarin",
+      "tagliata-zucca": "Tagliata de bœuf Sorana au potiron et à la truffe",
+      "spiedone": "Brochette de viandes mixtes",
+      "costata-sorana": "Côte de bœuf Sorana à la braise",
+      "baccala-vicentina": "Morue mijotée à la vicentine",
+      "piatto-rustico": "Assiette rustique (saucisse, polenta, fromage Morlacco et trévise)",
+      "insalata-mista": "Salade mixte",
+      "patate-fritte": "Frites",
+      "fagioli-veneta": "Haricots en sauce vénitienne",
+      "erbette-cotte": "Herbes potagères cuites",
+      "verdure-grigliate": "Légumes grillés",
+      "radicchio-ferri": "Trévise grillée",
+      "radicchio-marinato": "Trévise marinée",
+      "pure-tartufo": "Purée à la truffe",
+      "crauti-rossi": "Chou rouge fermenté",
+      "u-cotoletta": "Escalope avec petite salade et frites",
+      "u-arrosto": "Rôti de cochon de lait avec petite salade et frites",
+      "u-galletto": "Coquelet avec petite salade et frites",
+      "u-bistecca": "Steak avec petite salade et frites",
+      "u-costine": "Travers avec petite salade et frites",
+      "u-polenta": "Polenta, musetto (saucisse à cuire), choucroute et purée à la truffe",
+      "sorbetto": "Sorbet",
+      "tiramisu": "Tiramisù",
+      "crema-catalana": "Crème catalane",
+      "cheesecake": "Cheesecake mangue et coco",
+      "mousse-cioccolato": "Mousse au chocolat",
+      "mousse-torroncino": "Mousse au nougat",
+      "tulipano": "Apéritif de la maison",
+      "spritz-cedro": "Spritz au cédrat",
+      "spritz-bianco": "Spritz blanc",
+      "acqua-naturale": "Eau plate",
+      "acqua-frizzante": "Eau gazeuse",
+      "the-limone": "Thé glacé au citron (canette)",
+      "the-pesca": "Thé glacé à la pêche (canette)",
+      "tonica": "Tonic"
+    },
+    "groupLines": {
+      "Polenta di Storo, porchetta di Ariccia e radicchio di Treviso ai ferri": "Polenta de Storo, porchetta d'Ariccia et trévise grillée",
+      "Bigoli al sugo d'anitra": "Bigoli à la sauce de canard",
+      "Risotto al radicchio di Treviso": "Risotto à la trévise",
+      "Tagliata di Sorana alla brace": "Tagliata de bœuf Sorana à la braise",
+      "Patate al rosmarino": "Pommes de terre au romarin",
+      "Fagioli in salsa veneta": "Haricots en sauce vénitienne",
+      "Verdura fresca": "Légumes frais",
+      "Tiramisù del Pavone": "Tiramisù du Pavone",
+      "Porchetta di Ariccia con radicchio ai ferri, sopressa vicentina D.O.P.": "Porchetta d'Ariccia et trévise grillée, sopressa vicentina AOP",
+      "crostone aromatico, fiocco di Sauris, baccalà mantecato su polenta di Storo, conchiglia di mare": "croûton aromatique, fiocco de Sauris, morue en crème sur polenta de Storo, coquillage",
+      "Tagliatelle al radicchio e Morlacco": "Tagliatelles à la trévise et au Morlacco",
+      "Risotto alla zucca, tartufo e ricotta affumicata": "Risotto au potiron, truffe et ricotta fumée",
+      "Spiedone di carni miste alla brace": "Brochette de viandes mixtes à la braise",
+      "Crema catalana": "Crème catalane",
+      "Tortelli di zucca, tartufo e ricotta affumicata": "Tortelli au potiron, truffe et ricotta fumée",
+      "Cosciotto di maialino al forno": "Cuissot de cochon de lait au four",
+      "Cabossa al cioccolato ripiena": "Cabosse en chocolat garnie"
+    }
+  },
+  "gallery": {
+    "title": "Galerie",
+    "alts": [
+      "Viande sur le gril avec pommes de terre",
+      "Bottes d'asperges blanches de Bassano avec des œufs devant le feu",
+      "Entrée d'aubergines et de fromage sur une assiette d'ardoise",
+      "Radicchio de Trévise",
+      "Crème catalane flambée à table",
+      "Champignons sautés avec polenta",
+      "Champignons sur une assiette d'ardoise",
+      "Tagliata de viande avec romarin et polenta"
+    ],
+    "open": "Ouvrir la photo en plein écran : {alt}",
+    "dialog": "Photo en plein écran",
+    "close": "Fermer",
+    "prev": "Photo précédente",
+    "next": "Photo suivante",
+    "counter": "{current} sur {total}"
+  },
+  "reviews": {
+    "title": "Ce que l'on dit de nous",
+    "items": [
+      { "quote": "Excellente cuisine, personnel aimable et professionnel, ambiance confortable et reposante.", "name": "Roberto" },
+      { "quote": "Excellent, rapide, professionnel, cuisine 10/10 ! Asperges magnifiquement mises en valeur.", "name": "Salvatore" },
+      { "quote": "L'endroit parfait pour les dimanches en famille. Qualité et saveur à chaque plat.", "name": "Giuseppe" }
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "lead": "Via Nardi 85, au pied du mont Grappa. Appelez-nous ou réservez votre table en ligne.",
+    "addressLabel": "Adresse",
+    "emailLabel": "E-mail",
+    "hoursLabel": "Horaires d'ouverture",
+    "hours": [
+      { "days": "Lundi", "time": "Fermé" },
+      { "days": "Mardi – Samedi", "time": "12:00 – 15:30 | 19:00 – 23:30" },
+      { "days": "Dimanche", "time": "12:00 – 15:30" }
+    ],
+    "maps": "Ouvrir dans Google Maps",
+    "call": "Appeler la trattoria"
+  },
+  "footer": {
+    "nav": "Navigation",
+    "languages": "Langues",
+    "rights": "Trattoria il Pavone S.N.C. Tous droits réservés.",
+    "credits": "Photos d'illustration de morue, bigoli et risotto : Alessandro Giannini (CC BY 2.0), Popo le Chien (CC0), Luca Nebuloni (CC BY 2.0), via Wikimedia Commons."
+  }
+}

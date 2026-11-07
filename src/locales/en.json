@@ -1,0 +1,249 @@
+{
+  "meta": {
+    "title": "Trattoria Il Pavone | Traditional Bassano cuisine since 1941",
+    "description": "Historic trattoria in Romano d'Ezzelino, near Bassano del Grappa. Since 1941: Bassano-style asparagus and eggs, grilled meat, fresh pasta and Vicenza-style salt cod. Book online."
+  },
+  "nav": {
+    "kitchen": "Our Cuisine",
+    "story": "Our Story",
+    "menu": "Menu",
+    "gallery": "Gallery",
+    "contact": "Contact",
+    "book": "Book",
+    "bookNow": "Book now",
+    "discoverMenu": "Discover the menu",
+    "openMenu": "Open navigation menu",
+    "closeMenu": "Close navigation menu",
+    "chooseLanguage": "Choose language",
+    "skip": "Skip to content",
+    "home": "Trattoria Il Pavone, back to top",
+    "newWindow": "opens in a new window"
+  },
+  "hero": {
+    "titleLines": ["Since 1941 – Bassano", "Cuisine and Tradition"],
+    "text": "We welcome you to an atmosphere where traditional cooking meets elegance, creating unforgettable moments for the whole family.",
+    "photoAlt": "The dining room of Trattoria Il Pavone: wooden beams, fabric lamps, frescoed walls and tables laid with checked tablecloths"
+  },
+  "status": {
+    "openUntil": "Open now, until {time}",
+    "opensToday": "Closed now. Open again today at {time}",
+    "opensOn": "Closed now. Open again on {day} at {time}",
+    "days": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+  },
+  "kitchen": {
+    "title": "Our Cuisine",
+    "lead": "Typical local cooking, grilled meat and fresh pasta. Trattoria il Pavone is known as the sanctuary of asparagus, a name rooted in the Venetian tradition its chefs have always respected.",
+    "closing": "Dishes made with typical seasonal ingredients, such as Treviso radicchio, DOC asparagus from Bassano del Grappa, Vicenza-style salt cod and our renowned grilled meat.",
+    "items": {
+      "antipasti": {
+        "title": "Starters and panari",
+        "text": "Starters served on “panari”, literally polenta boards, paired with seasonal Venetian produce. The “prince” of starters is without doubt the panaro del Pavone, where tradition and culinary imagination come together.",
+        "alt": "Aubergine and cheese starter served on a slate plate in the dining room"
+      },
+      "pasta": {
+        "title": "Fresh pasta",
+        "text": "Homemade pasta and sauces prepared with the care and passion of those who love this work.",
+        "alt": "Bigoli, the long pasta typical of the Veneto"
+      },
+      "risotti": {
+        "title": "Risotto",
+        "text": "Excellent risottos, made with seasonal ingredients such as Treviso radicchio and pumpkin.",
+        "alt": "Radicchio risotto served on a white plate"
+      },
+      "carne": {
+        "title": "Grilled meat",
+        "text": "Il Pavone takes particular pride in its grilled meat. Carefully selected cuts are aged to the right point and cooked strictly over embers, which give every dish its added value.",
+        "alt": "Sliced grilled beef with rosemary and polenta"
+      },
+      "asparagi": {
+        "title": "Bassano-style asparagus and eggs",
+        "text": "A story of its own. Since the very early 1940s Il Pavone has served this delicacy, inspired by farming tradition, becoming a point of reference for lovers of the white asparagus of Bassano.",
+        "alt": "Two bundles of white Bassano asparagus tied with willow, with eggs, in front of the fireplace"
+      },
+      "baccala": {
+        "title": "Vicenza-style salt cod",
+        "text": "Not to be forgotten is the baccalà: Vicenza-style, creamed on the panaro and in the tasting trio.",
+        "alt": "Vicenza-style salt cod with polenta on the plate"
+      },
+      "dolci": {
+        "title": "Desserts",
+        "text": "Desserts bring every gathering to a worthy close: from grandmother's simple little sweets to creations that will amaze you with the imagination of their presentation.",
+        "alt": "Two flambéed crema catalana served at the table"
+      }
+    }
+  },
+  "story": {
+    "title": "Our Story",
+    "staffAlt": "The staff of Trattoria Il Pavone in front of the old wall of the villa",
+    "wallAlt": "Dining room wall with fresco and fabric lamps",
+    "chapters": [
+      { "mark": "1939", "text": "The story of “Trattoria il Pavone” begins when the Lunardon family moved, in 1939, into what had been the historic country villa of a distinguished citizen of Bassano who lived at the turn of the eighteenth and nineteenth centuries: Jacopo Vittorelli." },
+      { "mark": "", "text": "A much admired writer and poet, he owned a vast estate on which a Renaissance villa had stood. It was completely destroyed, but he kept some of its drawings. The maestro decided to rebuild a country residence based on those drawings, which explains the building's neoclassical style rather than the Baroque that the fashion of the time would have suggested." },
+      { "mark": "", "text": "On his death, as was customary, he left the entire property to a priest of his time, Don Pirani, who nobly took in the orphan girls of the Bassano area. Before he died, Vittorelli arranged for Don Pirani's orphans to spend holidays at his country villa, which it seems continued regularly until the first half of the twentieth century." },
+      { "mark": "1941", "text": "Turned into a trattoria in 1941, “il Pavone” offered its guests the fruits of farm labour, and from this came the most traditional dish of Bassano's gastronomy: asparagus and eggs." },
+      { "mark": "", "text": "Having become the “sanctuary” of asparagus par excellence, the current management has enriched the menu with variations that satisfy today's tastes and needs." },
+      { "mark": "1860", "text": "This, in short, is the story of “il Pavone”, witness to many other human events, from the brigands who took refuge within its walls to the soldiers who, passing through, left dedications to their sweethearts written in 1860 and still visible today: in short, a place rich in history, charm and flavour." }
+    ]
+  },
+  "menu": {
+    "title": "Menu",
+    "tabs": { "carta": "À la carte", "vini": "Wine list", "gruppi": "Group menus" },
+    "tabsLabel": "Choose a menu",
+    "sectionsLabel": "Categories",
+    "cartaIntro": "Seasonal à la carte menu",
+    "viniIntro": "Sparkling, white and red wines by the bottle, wines by the glass and on tap.",
+    "gruppiIntro": "Ceremonies, parties or birthdays? By reservation, here are our menus for your event.",
+    "translationNote": "Dish names are shown in Italian, as on our menu, with the English description below.",
+    "drinksExcluded": "drinks not included",
+    "eventsTitle": "Special events, family parties or company dinners?",
+    "eventsButton": "See the group menus"
+  },
+  "menuData": {
+    "sections": {
+      "antipasti": "Starters",
+      "primi": "First courses",
+      "secondi": "Main courses",
+      "contorni": "Side dishes",
+      "unici": "Complete dishes",
+      "dolci": "Desserts",
+      "aperitivi": "Aperitifs",
+      "bibite": "Soft drinks",
+      "bollicine": "Sparkling wines",
+      "bianchi": "White wines",
+      "rossi": "Red wines",
+      "mescita": "Wines by the glass",
+      "spina": "Wines on tap"
+    },
+    "sectionNotes": { "unici": "Some of our main courses served with potatoes and salad on the plate" },
+    "units": { "litre": "1 litre", "half": "1/2 litre", "quarter": "1/4 litre", "glass": "glass", "hg": "hg" },
+    "courses": { "antipasto": "Starter", "primi": "First courses", "secondo": "Main course", "secondi": "Main courses", "contorni": "Side dishes", "dolce": "Dessert", "caffe": "Coffee" },
+    "items": {
+      "tris-radicchio": "Radicchio Tasting Trio",
+      "crostoni-lardo": "Crostini with Lardo di Colonnata",
+      "panaro-baccala": "Platter with Creamed Cod",
+      "porchetta-radicchio": "Ariccia Porchetta with Grilled Radicchio",
+      "carpaccio-radicchio": "Beef Carpaccio with Marinated Radicchio",
+      "polenta-musetto": "Corn Polenta, Cotechino, Sauerkraut and Truffle Mashed Potatoes",
+      "panaro-pavone": "House Special Platter",
+      "tartare-zucca": "Beef Tartare with Pumpkin and Truffle",
+      "tris-baccala": "Codfish Tasting Trio",
+      "misticanza": "Winter Salad with Radicchio, Pumpkin, Pecorino Cheese and Walnuts",
+      "bigoli-anitra": "Bigoli Pasta with Duck Sauce",
+      "tagliatelle-radicchio": "Tagliatelle with Radicchio and Morlacco Cheese",
+      "paccheri-cinghiale": "Paccheri Pasta with Wild Boar and Truffle",
+      "maccheroncini-baccala": "Maccheroni with Codfish",
+      "tortelli-zucca": "Pumpkin Tortelli with Truffle and Smoked Ricotta",
+      "crespelle-radicchio": "Crepes with Radicchio and Asiago Cheese",
+      "gnocchetti-radicchio": "Gnocchi with Radicchio and Bacon",
+      "risotto-zucca": "Pumpkin and Truffle Risotto (min. 2 people)",
+      "zuppa-porcini": "Porcini mushrooms Soup",
+      "cotoletta-pollo": "Chicken Cutlet",
+      "galletto-brace": "Grilled Cockerel",
+      "arrosto-maialino": "Roasted Suckling Pig with Radicchio",
+      "bistecca-manzo": "Beef Steak",
+      "costine-maialino": "Grilled Suckling Pig Ribs",
+      "seppie-piselli": "Stewed Cuttlefish with Peas",
+      "tagliata-rosmarino": "Sliced Sorana Beef with Rosemary",
+      "tagliata-zucca": "Sliced Sorana Beef with Pumpkin and Truffle",
+      "spiedone": "Mixed Meat Skewer",
+      "costata-sorana": "Grilled Sorana Beef Ribeye",
+      "baccala-vicentina": "Stewed Codfish",
+      "piatto-rustico": "Rustic Platter (Sausage, polenta, Morlacco cheese, and radicchio)",
+      "insalata-mista": "Mixed Salad",
+      "patate-fritte": "French Fries",
+      "fagioli-veneta": "Beans in Venetian-style Sauce",
+      "erbette-cotte": "Cooked Wild Greens / Field Greens",
+      "verdure-grigliate": "Grilled Vegetables",
+      "radicchio-ferri": "Grilled Radicchio",
+      "radicchio-marinato": "Marinated Radicchio",
+      "pure-tartufo": "Mashed Potatoes with Truffle",
+      "crauti-rossi": "Red Sauerkraut",
+      "u-cotoletta": "Chicken Cutlet with Side Salad and Fries",
+      "u-arrosto": "Roasted Suckling Pig with Side Salad and Fries",
+      "u-galletto": "Grilled Cockerel with Side Salad and Fries",
+      "u-bistecca": "Beef Steak with Side Salad and Fries",
+      "u-costine": "Suckling Pig Ribs with Side Salad and Fries",
+      "u-polenta": "Corn Polenta, Cotechino, Sauerkraut and Truffle Mashed Potatoes",
+      "sorbetto": "Sorbet",
+      "tiramisu": "Homemade Tiramisù",
+      "crema-catalana": "Catalan Cream",
+      "cheesecake": "Mango and Coconut Cheesecake",
+      "mousse-cioccolato": "Chocolate Mousse with Caramel Filling",
+      "mousse-torroncino": "nougat mousse",
+      "tulipano": "House aperitif",
+      "spritz-cedro": "Citron Spritz",
+      "spritz-bianco": "White Spritz",
+      "acqua-naturale": "Still water",
+      "acqua-frizzante": "Sparkling water",
+      "the-limone": "Lemon iced tea (can)",
+      "the-pesca": "Peach iced tea (can)",
+      "tonica": "Tonic water"
+    },
+    "groupLines": {
+      "Polenta di Storo, porchetta di Ariccia e radicchio di Treviso ai ferri": "Storo polenta, Ariccia porchetta and grilled Treviso radicchio",
+      "Bigoli al sugo d'anitra": "Bigoli pasta with duck sauce",
+      "Risotto al radicchio di Treviso": "Treviso radicchio risotto",
+      "Tagliata di Sorana alla brace": "Sliced Sorana beef grilled over embers",
+      "Patate al rosmarino": "Rosemary potatoes",
+      "Fagioli in salsa veneta": "Beans in Venetian-style sauce",
+      "Verdura fresca": "Fresh vegetables",
+      "Tiramisù del Pavone": "Il Pavone's tiramisù",
+      "Porchetta di Ariccia con radicchio ai ferri, sopressa vicentina D.O.P.": "Ariccia porchetta with grilled radicchio, Sopressa Vicentina PDO",
+      "crostone aromatico, fiocco di Sauris, baccalà mantecato su polenta di Storo, conchiglia di mare": "herb crouton, Sauris fiocco ham, creamed cod on Storo polenta, seashell",
+      "Tagliatelle al radicchio e Morlacco": "Tagliatelle with radicchio and Morlacco cheese",
+      "Risotto alla zucca, tartufo e ricotta affumicata": "Pumpkin, truffle and smoked ricotta risotto",
+      "Spiedone di carni miste alla brace": "Mixed meat skewer grilled over embers",
+      "Crema catalana": "Catalan cream",
+      "Tortelli di zucca, tartufo e ricotta affumicata": "Pumpkin tortelli with truffle and smoked ricotta",
+      "Cosciotto di maialino al forno": "Roast leg of suckling pig",
+      "Cabossa al cioccolato ripiena": "Filled chocolate cabossa"
+    }
+  },
+  "gallery": {
+    "title": "Gallery",
+    "alts": [
+      "Meat on the grill with potatoes",
+      "Bundles of white Bassano asparagus with eggs in front of the fire",
+      "Aubergine and cheese starter on a slate plate",
+      "Treviso radicchio",
+      "Flambéed crema catalana at the table",
+      "Sautéed mushrooms with polenta",
+      "Mushrooms on a slate plate",
+      "Sliced beef with rosemary and polenta"
+    ],
+    "open": "Open photo in full screen: {alt}",
+    "dialog": "Full-screen photo",
+    "close": "Close",
+    "prev": "Previous photo",
+    "next": "Next photo",
+    "counter": "{current} of {total}"
+  },
+  "reviews": {
+    "title": "What guests say",
+    "items": [
+      { "quote": "Excellent food, kind and professional staff, a comfortable and relaxing atmosphere.", "name": "Roberto" },
+      { "quote": "Excellent, quick, professional, the food is 10/10! Asparagus at its very best.", "name": "Salvatore" },
+      { "quote": "The perfect place for family Sundays. Quality and flavour in every course.", "name": "Giuseppe" }
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "lead": "Via Nardi 85, at the foot of Monte Grappa. Call us or book your table online.",
+    "addressLabel": "Address",
+    "emailLabel": "Email",
+    "hoursLabel": "Opening hours",
+    "hours": [
+      { "days": "Monday", "time": "Closed" },
+      { "days": "Tuesday – Saturday", "time": "12:00 – 15:30 | 19:00 – 23:30" },
+      { "days": "Sunday", "time": "12:00 – 15:30" }
+    ],
+    "maps": "Open in Google Maps",
+    "call": "Call the trattoria"
+  },
+  "footer": {
+    "nav": "Navigation",
+    "languages": "Languages",
+    "rights": "Trattoria il Pavone S.N.C. All rights reserved.",
+    "credits": "Illustrative photos of salt cod, bigoli and risotto: Alessandro Giannini (CC BY 2.0), Popo le Chien (CC0), Luca Nebuloni (CC BY 2.0), via Wikimedia Commons."
+  }
+}

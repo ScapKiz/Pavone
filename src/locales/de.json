@@ -1,0 +1,249 @@
+{
+  "meta": {
+    "title": "Trattoria Il Pavone | Küche und Tradition aus Bassano seit 1941",
+    "description": "Historische Trattoria in Romano d'Ezzelino bei Bassano del Grappa. Seit 1941: Spargel und Eier nach Bassaneser Art, Fleisch vom Holzkohlegrill, frische Pasta und Stockfisch nach Vicentiner Art. Online reservieren."
+  },
+  "nav": {
+    "kitchen": "Unsere Küche",
+    "story": "Unsere Geschichte",
+    "menu": "Speisekarte",
+    "gallery": "Galerie",
+    "contact": "Kontakt",
+    "book": "Reservieren",
+    "bookNow": "Jetzt reservieren",
+    "discoverMenu": "Zur Speisekarte",
+    "openMenu": "Navigationsmenü öffnen",
+    "closeMenu": "Navigationsmenü schließen",
+    "chooseLanguage": "Sprache wählen",
+    "skip": "Zum Inhalt springen",
+    "home": "Trattoria Il Pavone, zurück zum Anfang",
+    "newWindow": "öffnet in einem neuen Fenster"
+  },
+  "hero": {
+    "titleLines": ["Seit 1941 – Küche", "und Tradition aus Bassano"],
+    "text": "Wir empfangen Sie in einer Atmosphäre, in der traditionelle Küche auf Eleganz trifft und unvergessliche Momente für die ganze Familie entstehen.",
+    "photoAlt": "Der Speisesaal der Trattoria Il Pavone: Holzbalken, Stofflampen, Wandfresken und Tische mit karierten Tischdecken"
+  },
+  "status": {
+    "openUntil": "Jetzt geöffnet, bis {time} Uhr",
+    "opensToday": "Jetzt geschlossen. Heute wieder ab {time} Uhr",
+    "opensOn": "Jetzt geschlossen. Wieder geöffnet am {day} ab {time} Uhr",
+    "days": ["Sonntag", "Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag"]
+  },
+  "kitchen": {
+    "title": "Unsere Küche",
+    "lead": "Typische Küche der Region, Fleisch vom Holzkohlegrill und frische Pasta. Die Trattoria il Pavone ist als Heiligtum des Spargels bekannt, ein Name, der aus der venetischen Tradition stammt, der sich die Köche des Hauses seit jeher verpflichtet fühlen.",
+    "closing": "Gerichte mit typischen saisonalen Zutaten wie Radicchio aus Treviso, DOC-Spargel aus Bassano del Grappa, Stockfisch nach Vicentiner Art und unserem berühmten Fleisch vom Holzkohlegrill.",
+    "items": {
+      "antipasti": {
+        "title": "Vorspeisen und Panari",
+        "text": "Vorspeisen auf „Panari“, wörtlich Polentabrettern, kombiniert mit saisonalen Produkten aus Venetien. Der „Fürst“ unter den Vorspeisen ist zweifellos der Panaro del Pavone, in dem Tradition und kulinarische Fantasie verschmelzen.",
+        "alt": "Vorspeise aus Auberginen und Käse auf einem Schieferteller im Speisesaal"
+      },
+      "pasta": {
+        "title": "Frische Pasta",
+        "text": "Hausgemachte Pasta und Saucen, zubereitet mit der Sorgfalt und Leidenschaft von Menschen, die diese Arbeit lieben.",
+        "alt": "Bigoli, die typische lange Pasta aus Venetien"
+      },
+      "risotti": {
+        "title": "Risotto",
+        "text": "Ausgezeichnete Risotti, zubereitet mit saisonalen Zutaten wie Radicchio aus Treviso und Kürbis.",
+        "alt": "Radicchio-Risotto auf einem weißen Teller"
+      },
+      "carne": {
+        "title": "Fleisch vom Holzkohlegrill",
+        "text": "Il Pavone zeichnet sich, nicht ohne Stolz, durch sein Grillfleisch aus. Die sorgfältig ausgewählten Stücke reifen bis zum richtigen Punkt und werden ausschließlich über Glut gegart, was jedem Gericht seinen besonderen Wert verleiht.",
+        "alt": "Tranchiertes Rindfleisch vom Grill mit Rosmarin und Polenta"
+      },
+      "asparagi": {
+        "title": "Spargel und Eier nach Bassaneser Art",
+        "text": "Ein Kapitel für sich. Seit den frühen 1940er-Jahren serviert Il Pavone diese Köstlichkeit nach bäuerlicher Tradition und wurde so zum Bezugspunkt für alle Liebhaber des weißen Spargels aus Bassano.",
+        "alt": "Zwei mit Weide gebundene Bündel weißer Spargel aus Bassano mit Eiern vor dem Kaminfeuer"
+      },
+      "baccala": {
+        "title": "Stockfisch nach Vicentiner Art",
+        "text": "Nicht zu vergessen der Baccalà: nach Vicentiner Art, püriert auf dem Panaro und im Probiertrio.",
+        "alt": "Stockfisch nach Vicentiner Art mit Polenta auf dem Teller"
+      },
+      "dolci": {
+        "title": "Desserts",
+        "text": "Die Desserts sind der würdige Abschluss jeder Tafelrunde: von Großmutters einfachem Gebäck bis zu Kreationen, die Sie mit ihrer fantasievollen Präsentation überraschen werden.",
+        "alt": "Zwei flambierte Crema Catalana am Tisch"
+      }
+    }
+  },
+  "story": {
+    "title": "Unsere Geschichte",
+    "staffAlt": "Das Team der Trattoria Il Pavone vor der alten Mauer der Villa",
+    "wallAlt": "Wand des Speisesaals mit Fresko und Stofflampen",
+    "chapters": [
+      { "mark": "1939", "text": "Die Geschichte der „Trattoria il Pavone“ beginnt, als die Familie Lunardon 1939 in das einstige historische Landhaus eines angesehenen Bürgers von Bassano einzieht, der an der Wende vom 18. zum 19. Jahrhundert lebte: Jacopo Vittorelli." },
+      { "mark": "", "text": "Der hoch geschätzte Schriftsteller und Dichter besaß ein weitläufiges Grundstück, auf dem eine Renaissancevilla gestanden hatte. Sie wurde vollständig zerstört, doch er bewahrte einige ihrer Zeichnungen auf. Der Meister beschloss, nach diesen Zeichnungen ein Landhaus neu zu errichten: Das erklärt den klassizistischen Stil des Gebäudes anstelle des Barocks, den die damalige Mode nahegelegt hätte." },
+      { "mark": "", "text": "Bei seinem Tod vermachte er, wie es üblich war, den gesamten Besitz einem Priester seiner Zeit, Don Pirani, der mit edlen Absichten die Waisenmädchen aus der Gegend von Bassano in seiner Einrichtung aufnahm. Noch zu Lebzeiten verfügte Vittorelli, dass die Waisen von Don Pirani einige Ferienzeiten in seinem Landhaus verbringen durften, was offenbar bis in die erste Hälfte des 20. Jahrhunderts regelmäßig geschah." },
+      { "mark": "1941", "text": "1941 in eine Trattoria umgewandelt, bietet „il Pavone“ seinen Gästen die Erzeugnisse bäuerlicher Arbeit an, und daraus entstand das traditionsreichste Gericht der Küche von Bassano: Spargel und Eier." },
+      { "mark": "", "text": "Zum „Heiligtum“ des Spargels schlechthin geworden, hat die heutige Leitung die Speisekarte um Variationen bereichert, die dem Geschmack und den Bedürfnissen von heute entsprechen." },
+      { "mark": "1860", "text": "Das ist in Kürze die Geschichte des „Pavone“, der Zeuge vieler weiterer menschlicher Schicksale war: von den Räubern, die zwischen seinen Mauern Zuflucht suchten, bis zu den Soldaten, die auf der Durchreise Widmungen an ihre Liebsten hinterließen, geschrieben 1860 und noch heute sichtbar. Kurz gesagt, ein Ort voller Geschichte, Charme und Geschmack." }
+    ]
+  },
+  "menu": {
+    "title": "Speisekarte",
+    "tabs": { "carta": "Deutsche Speisekarte", "vini": "Weinkarte", "gruppi": "Gruppenmenüs" },
+    "tabsLabel": "Karte wählen",
+    "sectionsLabel": "Kategorien",
+    "cartaIntro": "Saisonale Speisekarte",
+    "viniIntro": "Schaumweine, Weiß- und Rotweine in der Flasche, offene Weine und Weine vom Fass.",
+    "gruppiIntro": "Feierlichkeiten, Feste oder Geburtstage? Auf Vorbestellung finden Sie hier unsere Menüs für Ihre Veranstaltung.",
+    "translationNote": "Die Gerichte stehen wie auf unserer Karte auf Italienisch, die deutsche Bezeichnung finden Sie darunter.",
+    "drinksExcluded": "Getränke nicht inbegriffen",
+    "eventsTitle": "Besondere Anlässe, Familienfeiern oder Firmenessen?",
+    "eventsButton": "Gruppenmenüs ansehen"
+  },
+  "menuData": {
+    "sections": {
+      "antipasti": "Vorspeisen",
+      "primi": "Erste Gänge",
+      "secondi": "Hauptgerichte",
+      "contorni": "Beilagen",
+      "unici": "Komplette Hauptgerichte",
+      "dolci": "Desserts",
+      "aperitivi": "Aperitifs",
+      "bibite": "Getränke",
+      "bollicine": "Schaumweine",
+      "bianchi": "Weißweine",
+      "rossi": "Rotweine",
+      "mescita": "Offene Weine",
+      "spina": "Weine vom Fass"
+    },
+    "sectionNotes": { "unici": "Einige unserer Hauptgerichte werden mit Kartoffeln und Salat auf dem Teller serviert" },
+    "units": { "litre": "1 Liter", "half": "1/2 Liter", "quarter": "1/4 Liter", "glass": "Glas", "hg": "hg" },
+    "courses": { "antipasto": "Vorspeise", "primi": "Erste Gänge", "secondo": "Hauptgericht", "secondi": "Hauptgerichte", "contorni": "Beilagen", "dolce": "Dessert", "caffe": "Kaffee" },
+    "items": {
+      "tris-radicchio": "Radicchio-Trio (Drei Variationen vom Radicchio)",
+      "crostoni-lardo": "Crostini mit Lardo di Colonnata",
+      "panaro-baccala": "Platte mit püriertem Stockfisch",
+      "porchetta-radicchio": "Spanferkelrollbraten mit gegrilltem Radicchio",
+      "carpaccio-radicchio": "Rinder-Carpaccio mit mariniertem Radicchio",
+      "polenta-musetto": "Polenta mit Cotechino (italienischer Kochwurst), Sauerkraut und Trüffelpüree",
+      "panaro-pavone": "Vorspeisenplatte nach Art des Hauses",
+      "tartare-zucca": "Rindertatar mit Kürbis und Trüffel",
+      "tris-baccala": "Dreierlei von Stockfisch (oder Klippfisch)",
+      "misticanza": "Winterlicher gemischter Salat (mit Radicchio, Kürbis, Pecorino-Käse und Walnüssen)",
+      "bigoli-anitra": "Bigoli-Nudeln mit Entensauce",
+      "tagliatelle-radicchio": "Tagliatelle mit Radicchio und Morlacco-Käse",
+      "paccheri-cinghiale": "Paccheri-Nudeln mit Wildschwein und Trüffel",
+      "maccheroncini-baccala": "Maccheroni mit Stockfisch",
+      "tortelli-zucca": "Kürbis-Tortelli mit Trüffel und geräuchertem Ricotta",
+      "crespelle-radicchio": "Pfannkuchen-Röllchen mit Radicchio und Asiago-Käse",
+      "gnocchetti-radicchio": "Gnocchetti mit Radicchio und Guanciale (Luftgetrocknetem Schweinebackenspeck)",
+      "risotto-zucca": "Kürbis-Trüffel-Risotto (min 2 Personen)",
+      "zuppa-porcini": "Steinpilzsuppe",
+      "cotoletta-pollo": "Hähnchenschnitzel",
+      "galletto-brace": "Gegrilltes Hähnchen",
+      "arrosto-maialino": "Schweinebraten mit Radicchio",
+      "bistecca-manzo": "Rindersteak",
+      "costine-maialino": "Gegrillte Spanferkelrippchen",
+      "seppie-piselli": "Geschmorte Tintenfische mit Erbsen",
+      "tagliata-rosmarino": "Tranchiertes Rindersteak mit Rosmarin",
+      "tagliata-zucca": "Tranchiertes Rindersteak mit Kürbis und Trüffel",
+      "spiedone": "Gemischter Fleischspieß",
+      "costata-sorana": "Gegrilltes Sorana-Rinderkotelett",
+      "baccala-vicentina": "Geschmorter Stockfisch",
+      "piatto-rustico": "Rustikaler Teller (Preßwurst/Scharfe Wurst, Polenta, Morlacco-Käse und Radicchio)",
+      "insalata-mista": "Gemischter Salat",
+      "patate-fritte": "Pommes Frites",
+      "fagioli-veneta": "Bohnen nach venezianischer Art",
+      "erbette-cotte": "Gekochtes Blattgemüse",
+      "verdure-grigliate": "Gegrilltes Gemüse",
+      "radicchio-ferri": "Gegrillter Radicchio",
+      "radicchio-marinato": "Marinierter Radicchio",
+      "pure-tartufo": "Trüffelkartoffelpüree",
+      "crauti-rossi": "Rotkraut",
+      "u-cotoletta": "Schnitzel mit kleinem Salat und Pommes",
+      "u-arrosto": "Schweinebraten mit kleinem Salat und Pommes",
+      "u-galletto": "Hähnchen mit kleinem Salat und Pommes",
+      "u-bistecca": "Steak mit kleinem Salat und Pommes",
+      "u-costine": "Rippchen mit kleinem Salat und Pommes",
+      "u-polenta": "Polenta mit Cotechino (italienischer Kochwurst), Sauerkraut und Trüffelpüree",
+      "sorbetto": "Sorbet",
+      "tiramisu": "Tiramisù",
+      "crema-catalana": "Crema Catalana",
+      "cheesecake": "Mango-Kokos-Cheesecake",
+      "mousse-cioccolato": "Schokoladenmousse mit Karamellfüllung",
+      "mousse-torroncino": "Torrone-Mousse",
+      "tulipano": "Hausaperitif",
+      "spritz-cedro": "Citron Spritz",
+      "spritz-bianco": "Weißer Spritz",
+      "acqua-naturale": "stilles Wasser",
+      "acqua-frizzante": "Sprudelwasser",
+      "the-limone": "Zitroneneistee (Dose)",
+      "the-pesca": "Pfirsicheistee (Dose)",
+      "tonica": "Tonic Water"
+    },
+    "groupLines": {
+      "Polenta di Storo, porchetta di Ariccia e radicchio di Treviso ai ferri": "Polenta aus Storo, Porchetta aus Ariccia und gegrillter Radicchio aus Treviso",
+      "Bigoli al sugo d'anitra": "Bigoli mit Entensauce",
+      "Risotto al radicchio di Treviso": "Risotto mit Radicchio aus Treviso",
+      "Tagliata di Sorana alla brace": "Tranchiertes Sorana-Rind vom Holzkohlegrill",
+      "Patate al rosmarino": "Rosmarinkartoffeln",
+      "Fagioli in salsa veneta": "Bohnen nach venezianischer Art",
+      "Verdura fresca": "Frisches Gemüse",
+      "Tiramisù del Pavone": "Tiramisù des Pavone",
+      "Porchetta di Ariccia con radicchio ai ferri, sopressa vicentina D.O.P.": "Porchetta aus Ariccia mit gegrilltem Radicchio, Sopressa Vicentina g.U.",
+      "crostone aromatico, fiocco di Sauris, baccalà mantecato su polenta di Storo, conchiglia di mare": "Kräutercrostone, Fiocco aus Sauris, pürierter Stockfisch auf Polenta aus Storo, Meeresmuschel",
+      "Tagliatelle al radicchio e Morlacco": "Tagliatelle mit Radicchio und Morlacco-Käse",
+      "Risotto alla zucca, tartufo e ricotta affumicata": "Risotto mit Kürbis, Trüffel und geräuchertem Ricotta",
+      "Spiedone di carni miste alla brace": "Gemischter Fleischspieß vom Holzkohlegrill",
+      "Crema catalana": "Crema Catalana",
+      "Tortelli di zucca, tartufo e ricotta affumicata": "Kürbis-Tortelli mit Trüffel und geräuchertem Ricotta",
+      "Cosciotto di maialino al forno": "Spanferkelkeule aus dem Ofen",
+      "Cabossa al cioccolato ripiena": "Gefüllte Schokoladen-Cabossa"
+    }
+  },
+  "gallery": {
+    "title": "Galerie",
+    "alts": [
+      "Fleisch auf dem Grill mit Kartoffeln",
+      "Bündel weißer Spargel aus Bassano mit Eiern vor dem Feuer",
+      "Vorspeise aus Auberginen und Käse auf einem Schieferteller",
+      "Radicchio aus Treviso",
+      "Flambierte Crema Catalana am Tisch",
+      "Gebratene Pilze mit Polenta",
+      "Pilze auf einem Schieferteller",
+      "Tranchiertes Rindfleisch mit Rosmarin und Polenta"
+    ],
+    "open": "Foto im Vollbild öffnen: {alt}",
+    "dialog": "Foto im Vollbild",
+    "close": "Schließen",
+    "prev": "Vorheriges Foto",
+    "next": "Nächstes Foto",
+    "counter": "{current} von {total}"
+  },
+  "reviews": {
+    "title": "Das sagen unsere Gäste",
+    "items": [
+      { "quote": "Ausgezeichnete Küche, freundliches und professionelles Personal, angenehme und entspannte Atmosphäre.", "name": "Roberto" },
+      { "quote": "Ausgezeichnet, schnell, professionell, Küche 10/10! Spargel in Bestform.", "name": "Salvatore" },
+      { "quote": "Der perfekte Ort für Sonntage mit der Familie. Qualität und Geschmack in jedem Gang.", "name": "Giuseppe" }
+    ]
+  },
+  "contact": {
+    "title": "Kontakt",
+    "lead": "Via Nardi 85, am Fuß des Monte Grappa. Rufen Sie uns an oder reservieren Sie Ihren Tisch online.",
+    "addressLabel": "Adresse",
+    "emailLabel": "E-Mail",
+    "hoursLabel": "Öffnungszeiten",
+    "hours": [
+      { "days": "Montag", "time": "Geschlossen" },
+      { "days": "Dienstag – Samstag", "time": "12:00 – 15:30 | 19:00 – 23:30" },
+      { "days": "Sonntag", "time": "12:00 – 15:30" }
+    ],
+    "maps": "In Google Maps öffnen",
+    "call": "Trattoria anrufen"
+  },
+  "footer": {
+    "nav": "Navigation",
+    "languages": "Sprachen",
+    "rights": "Trattoria il Pavone S.N.C. Alle Rechte vorbehalten.",
+    "credits": "Illustrative Fotos von Stockfisch, Bigoli und Risotto: Alessandro Giannini (CC BY 2.0), Popo le Chien (CC0), Luca Nebuloni (CC BY 2.0), über Wikimedia Commons."
+  }
+}

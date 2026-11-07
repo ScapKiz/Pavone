@@ -1,0 +1,173 @@
+{
+  "meta": {
+    "title": "Trattoria Il Pavone | Cucina e tradizione bassanese dal 1941",
+    "description": "Trattoria storica a Romano d'Ezzelino, vicino a Bassano del Grappa. Dal 1941 asparagi e uova alla Bassanese, carne alla brace, pasta fresca e baccalà alla Vicentina. Prenota online."
+  },
+  "nav": {
+    "kitchen": "La Nostra Cucina",
+    "story": "La Nostra Storia",
+    "menu": "Il Menù",
+    "gallery": "Galleria",
+    "contact": "Contatti",
+    "book": "Prenota",
+    "bookNow": "Prenota ora",
+    "discoverMenu": "Scopri il menù",
+    "openMenu": "Apri il menu di navigazione",
+    "closeMenu": "Chiudi il menu di navigazione",
+    "chooseLanguage": "Scegli la lingua",
+    "skip": "Vai al contenuto",
+    "home": "Trattoria Il Pavone, torna all'inizio",
+    "newWindow": "si apre in una nuova finestra"
+  },
+  "hero": {
+    "titleLines": ["Dal 1941 – Cucina", "e Tradizione Bassanese"],
+    "text": "Vi accogliamo in un'atmosfera dove la cucina tradizionale incontra l'eleganza, creando momenti indimenticabili per tutta la famiglia.",
+    "photoAlt": "La sala della Trattoria Il Pavone: travi in legno, lampade di tessuto, pareti affrescate e tavoli apparecchiati con tovaglie a quadri"
+  },
+  "status": {
+    "openUntil": "Aperti ora, fino alle {time}",
+    "opensToday": "Ora chiuso. Si riapre oggi alle {time}",
+    "opensOn": "Ora chiuso. Si riapre {day} alle {time}",
+    "days": ["domenica", "lunedì", "martedì", "mercoledì", "giovedì", "venerdì", "sabato"]
+  },
+  "kitchen": {
+    "title": "La Nostra Cucina",
+    "lead": "Cucina tipica del territorio, carne alla brace e pasta fresca. La Trattoria il Pavone è conosciuta come il santuario degli asparagi: un nome che viene dalla tradizione veneta, rispettata da sempre dagli chef del locale.",
+    "closing": "Piatti con ingredienti tipici di stagione, quali il radicchio di Treviso, l'Asparago DOC di Bassano del Grappa, il Baccalà alla Vicentina e la nostra rinomata Carne alla Brace.",
+    "items": {
+      "antipasti": {
+        "title": "Antipasti e panari",
+        "text": "Antipasti sui “panari”, letteralmente taglieri per la polenta, abbinati a prodotti stagionali e veneti. L'antipasto “principe” è senza dubbio il panaro del Pavone, dove si fondono tradizione e fantasia gastronomica.",
+        "alt": "Antipasto di melanzane e formaggio servito su un piatto di ardesia nella sala"
+      },
+      "pasta": {
+        "title": "Pasta fresca",
+        "text": "Paste fatte in casa e sughi preparati con la cura e la passione di chi ama questo lavoro.",
+        "alt": "Bigoli, la pasta lunga tipica del Veneto"
+      },
+      "risotti": {
+        "title": "Risotti",
+        "text": "Ottimi i risotti, preparati con gli ingredienti di stagione come il radicchio di Treviso e la zucca.",
+        "alt": "Risotto al radicchio servito in un piatto bianco"
+      },
+      "carne": {
+        "title": "Carne alla brace",
+        "text": "Il Pavone si distingue, non senza una punta di orgoglio, nella carne alla griglia. I tagli, accuratamente selezionati, vengono portati al giusto grado di “frollatura” e cotti rigorosamente alla brace, che dà il valore aggiunto a ogni portata.",
+        "alt": "Tagliata di carne alla brace con rosmarino e polenta"
+      },
+      "asparagi": {
+        "title": "Asparagi e uova alla Bassanese",
+        "text": "Un discorso a parte. Fin dai primissimi anni '40 il Pavone proponeva questa prelibatezza ispirandosi alla tradizione contadina, divenendo il punto di riferimento per gli amanti del bianco turione di Bassano.",
+        "alt": "Due mazzi di asparagi bianchi di Bassano legati con il salice, con uova, davanti al fuoco del camino"
+      },
+      "baccala": {
+        "title": "Baccalà alla Vicentina",
+        "text": "Da non dimenticare il baccalà: alla Vicentina, mantecato sul panaro e nel tris di degustazione.",
+        "alt": "Baccalà alla vicentina con polenta servito al piatto"
+      },
+      "dolci": {
+        "title": "Dolci",
+        "text": "I dolci concludono degnamente ogni riunione conviviale: dai semplici dolcetti della nonna a dessert che vi stupiranno per la fantasia con cui vi saranno serviti.",
+        "alt": "Due crema catalana flambé servite al tavolo"
+      }
+    }
+  },
+  "story": {
+    "title": "La Nostra Storia",
+    "staffAlt": "Lo staff della Trattoria Il Pavone davanti al muro antico della villetta",
+    "wallAlt": "Parete della sala con affresco e lampade di tessuto",
+    "chapters": [
+      { "mark": "1939", "text": "La storia della “Trattoria il Pavone” comincia quando la famiglia Lunardon viene ad abitare, nel 1939, in quella che fu la villetta storica di campagna di un illustre bassanese vissuto a cavallo tra il Settecento e l'Ottocento: Jacopo Vittorelli." },
+      { "mark": "", "text": "Scrittore e poeta molto apprezzato, possedeva un vasto terreno su cui era stata edificata una villa rinascimentale, andata completamente distrutta, di cui conservava alcuni disegni. Il maestro decise di ricostruire una residenza di campagna rifacendosi a quei disegni: da qui si può intuire il perché dello stile neoclassico del fabbricato anziché di un barocco, come avrebbe suggerito la moda del tempo." },
+      { "mark": "", "text": "Alla sua morte, come era consuetudine, dona tutta la proprietà a un sacerdote suo contemporaneo, Don Pirani, che con nobili intenti accoglieva in una sua struttura le orfane del bassanese. Vittorelli prima della sua morte dispose che le orfanelle di Don Pirani potessero trascorrere qualche periodo di vacanza nella sua villetta di campagna, cosa che è avvenuta regolarmente, sembra, fino alla prima metà del Novecento." },
+      { "mark": "1941", "text": "Trasformato poi in trattoria nel 1941, “il Pavone” offre alla propria clientela prodotti del lavoro contadino, e da questo nasceva il piatto più tradizionale della gastronomia bassanese: asparagi e uova." },
+      { "mark": "", "text": "Divenuto il “santuario” degli asparagi per eccellenza, l'attuale gestione ha arricchito il menù con variazioni che soddisfano il gusto e le esigenze attuali." },
+      { "mark": "1860", "text": "Questa è in breve la storia del “Pavone”, che è stato testimone di tante altre umane vicissitudini, dai briganti che si sono rifugiati tra le sue mura ai soldati che al loro passaggio lasciavano dediche alle “morose” scritte nel 1860 e ancor oggi visibili: insomma, un luogo ricco di storia, di fascino e di sapori." }
+    ]
+  },
+  "menu": {
+    "title": "Il Menù",
+    "tabs": { "carta": "Menù alla Carta", "vini": "Carta Vini", "gruppi": "Menù per Gruppi" },
+    "tabsLabel": "Scegli il menù",
+    "sectionsLabel": "Categorie",
+    "cartaIntro": "Menù stagionale alla carta",
+    "viniIntro": "Bollicine, bianchi e rossi in bottiglia, vini in mescita e alla spina.",
+    "gruppiIntro": "Cerimonie, feste o compleanni? Su prenotazione ecco i nostri menù per il tuo evento",
+    "translationNote": "",
+    "drinksExcluded": "bevande escluse",
+    "eventsTitle": "Eventi Speciali, Feste di Famiglia o Cene Aziendali?",
+    "eventsButton": "Vedi menù per gruppi"
+  },
+  "menuData": {
+    "sections": {
+      "antipasti": "Antipasti",
+      "primi": "Primi Piatti",
+      "secondi": "Secondi Piatti",
+      "contorni": "Contorni",
+      "unici": "Piatti Unici",
+      "dolci": "Dolci",
+      "aperitivi": "Aperitivi",
+      "bibite": "Bibite",
+      "bollicine": "Bollicine",
+      "bianchi": "Vini Bianchi",
+      "rossi": "Vini Rossi",
+      "mescita": "Vini in Mescita",
+      "spina": "Vini alla Spina"
+    },
+    "sectionNotes": { "unici": "Alcuni dei nostri secondi serviti con patate e insalata nel piatto" },
+    "units": { "litre": "1 litro", "half": "1/2 litro", "quarter": "1/4 litro", "glass": "calice", "hg": "hg" },
+    "courses": { "antipasto": "Antipasto", "primi": "Primi", "secondo": "Secondo", "secondi": "Secondi", "contorni": "Contorni", "dolce": "Dolce", "caffe": "Caffè" },
+    "items": {
+      "risotto-zucca": "(minimo 2 persone)",
+      "tulipano": "aperitivo della casa"
+    },
+    "groupLines": {}
+  },
+  "gallery": {
+    "title": "Galleria",
+    "alts": [
+      "Carne sulla griglia con patate",
+      "Mazzi di asparagi bianchi di Bassano con uova davanti al fuoco",
+      "Antipasto di melanzane e formaggio su piatto di ardesia",
+      "Radicchio di Treviso",
+      "Crema catalana flambé al tavolo",
+      "Funghi trifolati con polenta",
+      "Funghi su piatto di ardesia",
+      "Tagliata di carne con rosmarino e polenta"
+    ],
+    "open": "Apri la fotografia a schermo intero: {alt}",
+    "dialog": "Fotografia a schermo intero",
+    "close": "Chiudi",
+    "prev": "Fotografia precedente",
+    "next": "Fotografia successiva",
+    "counter": "{current} di {total}"
+  },
+  "reviews": {
+    "title": "Dicono di Noi",
+    "items": [
+      { "quote": "Cucina ottima, staff gentile e professionale, ambiente confortevole e rilassante.", "name": "Roberto" },
+      { "quote": "Ottimo, veloci, professionali, cucina 10/10! Asparagi valorizzati al massimo.", "name": "Salvatore" },
+      { "quote": "Il posto perfetto per le domeniche in famiglia. Qualità e sapore in ogni portata.", "name": "Giuseppe" }
+    ]
+  },
+  "contact": {
+    "title": "Contatti",
+    "lead": "Via Nardi 85, ai piedi del Grappa. Chiamaci o prenota il tuo tavolo online.",
+    "addressLabel": "Indirizzo",
+    "emailLabel": "Email",
+    "hoursLabel": "Orari di apertura",
+    "hours": [
+      { "days": "Lunedì", "time": "Chiuso" },
+      { "days": "Martedì – Sabato", "time": "12:00 – 15:30 | 19:00 – 23:30" },
+      { "days": "Domenica", "time": "12:00 – 15:30" }
+    ],
+    "maps": "Apri in Google Maps",
+    "call": "Chiama la trattoria"
+  },
+  "footer": {
+    "nav": "Navigazione",
+    "languages": "Lingue",
+    "rights": "Trattoria il Pavone S.N.C. Tutti i diritti riservati.",
+    "credits": "Foto di baccalà, bigoli e risotto, a scopo illustrativo: Alessandro Giannini (CC BY 2.0), Popo le Chien (CC0), Luca Nebuloni (CC BY 2.0), via Wikimedia Commons."
+  }
+}
